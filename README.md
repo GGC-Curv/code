@@ -55,7 +55,7 @@ We compare with 19 state-of-the-art baselines in total. The baselines are introd
 5. ACM MM'21 AGCN
 > Zhihao Peng, Hui Liu, Yuheng Jia, and Junhui Hou. Attention-driven graph clustering network. In Proceedings of ACM MM, pages 935–943. ACM, 2021. 
 
-6. NeurIPS'22 S3GC 
+6. NeurIPS'22 S$^3$GC 
 > Fnu Devvrit, Aditya Sinha, Inderjit Dhillon, and Prateek Jain. S3GC: Scalable self-supervised graph clustering. In Advances in 36th NeurIPS, 2022.
 
 7. WWW'22 CGC
