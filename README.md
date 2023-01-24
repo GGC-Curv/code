@@ -10,6 +10,7 @@ We evaluate our model on 4 benchmark datasets, and all the datasets are publicly
 
 1. Cora and Citeseer.	
 > Sen, P.; Namata, G.; Bilgic, M.; Getoor, L.; Gallagher, B.; and Eliassi-Rad, T. 2008. Collective Classification in Network Data. AI Mag., 29(3): 93–106.
+> 
 > Devvrit, F.; Sinha, A.; Dhillon, I,; and Jain. P. S3GC: Scalable self-supervised graph clustering. In Advances in 36th NeurIPS, 2022.
 
 2. MAG-CS
