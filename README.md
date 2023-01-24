@@ -23,7 +23,7 @@ We evaluate our model on 4 benchmark datasets, and all the datasets are publicly
 ## Implementation 
 
 Our model consists of M restricted manifolds and 1 free manifold.
-The number of M, and the dimension of manifolds need to be configured for an specific instantiation. (Note that, the restricted manifolds have learnable curvatures, which is another novelty of our model.)
+The number of M, and the dimension of manifolds need to be configured for an specific instantiation. (Note that, __the restricted manifolds have learnable curvatures__, which is another novelty of our model.)
 Also, the weighting coefficient alpha's are the hyperparameters of the loss function.
 
 We give a sample implementation of CONGREGATE here.
@@ -59,7 +59,7 @@ We compare with 19 state-of-the-art baselines in total. The baselines are introd
 > Fnu Devvrit, Aditya Sinha, Inderjit Dhillon, and Prateek Jain. S3GC: Scalable self-supervised graph clustering. In Advances in 36th NeurIPS, 2022.
 
 7. WWW'22 CGC
-> Namyong Park, Ryan A. Rossi, Eunyee Koh, Iftikhar Ahamath Burhanuddin, Sungchul Kim, Fan Du, Nesreen K. Ahmed, and Christos Faloutsos. CGC: Contrastive graph clustering for community detection and  tracking. In Proceedings of the Web Conference, 2022.
+> Namyong Park, Ryan A. Rossi, Eunyee Koh, Iftikhar Ahamath Burhanuddin, Sungchul Kim, Fan Du, Nesreen K. Ahmed, and Christos Faloutsos. CGC: Contrastive graph clustering for community detection and  tracking. In Proceedings of the Web Conference, pages 1115–1126. ACM, 2022.
 
 8. WWW'22 gCooL
 > Bolian Li, Baoyu Jing, and Hanghang Tong. Graph communal contrastive learning. In Proceedings of The ACM Web Conference, pages 1203–1213. ACM, 2022.
