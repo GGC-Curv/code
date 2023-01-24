@@ -200,7 +200,6 @@ class Contrastive(nn.Module):
             MI.append(-rate.log())
         return torch.stack(MI, dim=0)
 
-
 def get_manifold(k):
     if k == 0:
         manifold = Euclidean(ndim=1)
@@ -210,5 +209,4 @@ def get_manifold(k):
         manifold = Sphere()
     return manifold
 
-  
   
