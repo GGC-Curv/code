@@ -2,7 +2,7 @@
 
 ## Noteworthy Contribution 
 
-In this paper, we are the FIRST to introduce __a novel curvature space__, supporting fine-grained curvature modeling, to graph clustering.
+In this paper, we are the __FIRST__ to introduce __a novel curvature space__, supporting fine-grained curvature modeling, to graph clustering.
 
 ## Datasets
 
