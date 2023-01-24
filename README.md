@@ -95,8 +95,10 @@ We compare with 19 state-of-the-art baselines in total. The baselines are introd
 19. IJCAI'21 GDCL
 > Han Zhao, Xu Yang, Zhenru Wang, Erkun Yang, and Cheng Deng. Graph debiased contrastive learning with joint representation clustering. In Proceedings of the 30th IJCAI, pages 3434–3440. ijcai.org, 2021.
 	
+**********
 
 Please refer to Technical Appendix for further details.
+
 
 
 
